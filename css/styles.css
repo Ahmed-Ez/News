@@ -107,7 +107,7 @@ display: flex;
 
 #showcase:before{
     content: '';
-    background: url("/images/feat.JPG") no-repeat center center/cover ;
+    background: url("../images/feat.JPG") no-repeat center center/cover ;
     width: 100%;
     height: 100%;
     position: absolute;
